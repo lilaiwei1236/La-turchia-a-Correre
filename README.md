@@ -10,7 +10,7 @@ Nel gioco, il giocatore aiuta a evitare il rischio di tacchino tutto Sprint, ava
 Clicca su UNO schermo di controllo, secondo Salto lungo la turchia, ma anche di saltare più in Alto! Oh!
 [Di mettersi in contatto con noi.
 
-![](https://github.com/lilaiwei1236/Lucky/blob/master/turchia01.png)![](https://github.com/lilaiwei1236/Lucky/blob/master/turchia02.png)![](https://github.com/lilaiwei1236/Lucky/blob/master/turchia03.png)]
+![](https://github.com/lilaiwei1236/Lucky/blob/master/turchia01.png)![](https://github.com/lilaiwei1236/Lucky/blob/master/turchia03.png)![](https://github.com/lilaiwei1236/Lucky/blob/master/turchia04.png)]
 
 # Contact Us
 
