@@ -1,19 +1,20 @@
-# La turchia a Correre
+# Turkey run
 
-### [Introduzione]
-E 'Una vita di Figo, Figo è anche un Campo di esistenza, La turchia, Al Fine di evitare il CUOCO Chase, sta per iniziare un Campo di Figo.
+### [brief]
+This is a life of the cool running, but also a survival of the cool running, in order to avoid the pursuit of Turkey cook, a cool running race each other are.
 
-### [gioco]
-Nel gioco, il giocatore aiuta a evitare il rischio di tacchino tutto Sprint, avanti.In sotterraneo e correva dietro a Chef, attento e Trappola per Topi in Trappola.Stai attento a Correre, Quando davanti a Volare in Volo.Attento, CORRI PIU 'in La'!
+### [play]
+In the game, the player helps the turkey to avoid all danger and push forward. When running underground, be careful with the chefs behind the chefs and the trap of the mousetrap. When you run, be careful with the flying knife in front of you. Be careful, run farther!
 
-### [operazioni di guida]
-Clicca su UNO schermo di controllo, secondo Salto lungo la turchia, ma anche di saltare più in Alto! Oh!
-[Di mettersi in contatto con noi.
+### [operation guide]
+Click on the screen to control the turkey jump, and the long press can jump higher.
+
+
+
 
 ![](https://github.com/lilaiwei1236/Lucky/blob/master/turchia01.png)![](https://github.com/lilaiwei1236/Lucky/blob/master/turchia03.png)![](https://github.com/lilaiwei1236/Lucky/blob/master/turchia04.png)]
 
-# Contact Us
-
+### [contact us]
 * Phone:`+44-3385662695`
 
 * Email:`Email:levine@gmail.com`
