@@ -12,7 +12,9 @@ Click on the screen to control the turkey jump, and the long press can jump high
 
 
 
-![](https://github.com/lilaiwei1236/Lucky/blob/master/turchia01.png)![](https://github.com/lilaiwei1236/Lucky/blob/master/turchia03.png)![](https://github.com/lilaiwei1236/Lucky/blob/master/turchia04.png)]
+![](https://github.com/lilaiwei1236/Lucky/blob/master/turchia01.png)
+![](https://github.com/lilaiwei1236/Lucky/blob/master/turchia03.png)
+![](https://github.com/lilaiwei1236/Lucky/blob/master/turchia04.png)
 
 ### [contact us]
 * Phone:`+44-3385662695`
